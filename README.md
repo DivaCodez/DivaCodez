@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**DivaCodez/DivaCodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+I'm a 3rd-year Computer Science & Information Systems student interested in **Applied AI**, **Computer Vision**, and **Python Backend Development**. I enjoy building practical prototypes and learning how to turn ML models into functional APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently working on:** **BioFarm-IQ** (graduation project) — an early-stage prototype combining YOLOv8 leaf-disease detection, weather APIs, and agronomic formulas (GDD) with a FastAPI backend.
+- 🌱 **Currently learning:** Deep Learning fundamentals, neural network architectures, and cleaner API design.
+- 🛠️ **Tools I use:** `Python` · `FastAPI` · `PyTorch` · `YOLOv8` · `OpenCV` · `Streamlit` · `Linux`
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/kaouthar-baba-ahmed-44a236439/) · [Email](babaahmed.kaouthar@gmail.com)
+
+---
+*Steady steps, big picture.* 🪐
