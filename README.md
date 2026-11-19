@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### Hi there 👋
-
 I'm a 3rd-year Computer Science & Information Systems student interested in **Applied AI**, **Computer Vision**, and **Python Backend Development**. I enjoy building practical prototypes and learning how to turn ML models into functional APIs.
 
 - 🔭 **Currently working on:** **BioFarm-IQ** (graduation project) — an early-stage prototype combining YOLOv8 leaf-disease detection, weather APIs, and agronomic formulas (GDD) with a FastAPI backend.
